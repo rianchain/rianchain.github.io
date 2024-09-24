@@ -543,7 +543,7 @@ body.light hr.separator {
 }
 
 .home .bg {
-  background-image: url(../img/main.jpeg);
+  background-image: url(../img/test\ main.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -1759,7 +1759,7 @@ body.light .header ul.icon-menu li.icon-box:hover,
 
   .main-img-mobile {
     width: 230px;
-    height: 230px;
+    height: 200px;
   }
 
   .home .home-details h1 {
